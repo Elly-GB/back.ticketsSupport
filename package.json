@@ -1,0 +1,12 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Tickets para o suporte",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    
+  },
+  "author": "Gabrielly F. Bublitz",
+  "license": "ISC"
+}
