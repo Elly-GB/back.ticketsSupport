@@ -1,7 +1,7 @@
 {
   "name": "api",
   "version": "1.0.0",
-  "description": "Tickets para o suporte",
+  "description": "API de gerenciamento de Tickets de Suporte.",
   "main": "src/server.js",
   "type": "module",
   "scripts": {
