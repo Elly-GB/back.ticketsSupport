@@ -6,7 +6,7 @@ export async function jsonHandler(request, response) {
   }
 
   try {
-    request.body = JSON.parse(Buffer.concat(buffers).toString)
+    request.body = JSON.parse(Buffer.concat(buffers).toString())
   } catch (error) {
     request.body = null
   }
