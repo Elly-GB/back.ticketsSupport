@@ -5,18 +5,39 @@
       "equipment": "Computador",
       "description": "Computador não liga.",
       "user_name": "Gaby",
-      "status": "open",
+      "status": "closed",
       "created_at": "2025-08-04T12:08:03.128Z",
-      "updated_at": "2025-08-04T12:08:03.128Z"
+      "updated_at": "2025-08-04T12:08:03.128Z",
+      "solution": "Peças do computador trocadas."
     },
     {
-      "id": "ae485c25-dbca-469b-abb8-bbcb3d1ee278",
+      "id": "9e827fff-c235-4184-b38a-69f8d90e4640",
       "equipment": "Teclado",
       "description": "Teclado com teclas faltando.",
       "user_name": "Lila",
+      "status": "closed",
+      "created_at": "2025-08-08T13:11:53.412Z",
+      "updated_at": "2025-08-08T13:11:53.412Z",
+      "solution": "Erro de envio no correio. Reembolso."
+    },
+    {
+      "id": "f32497a0-14b9-429a-ad2d-c6a05ec3bbfe",
+      "equipment": "Mouse",
+      "description": "Mouse lento.",
+      "user_name": "Clara",
       "status": "open",
-      "created_at": "2025-08-04T12:34:29.626Z",
-      "updated_at": "2025-08-04T12:34:29.626Z"
+      "created_at": "2025-08-08T13:14:19.683Z",
+      "updated_at": "2025-08-08T13:14:19.683Z"
+    },
+    {
+      "id": "522f905a-9bd8-43fb-82bb-30aa72552426",
+      "equipment": "Teclado",
+      "description": "Uma tecla específica não esta funcionando",
+      "user_name": "Geovana",
+      "status": "closed",
+      "created_at": "2025-08-08T13:26:36.752Z",
+      "updated_at": "2025-08-08T13:26:36.752Z",
+      "solution": "Alterou a configuração do modelo de teclado."
     }
   ]
 }

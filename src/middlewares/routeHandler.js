@@ -13,7 +13,10 @@ export function routeHandler(request, response) {
     const routeParams = request.url.match(route.path)
 
     const { query, ...params } = routeParams.groups
-    console.log(extractQueryParams(query))
+    
+    if (query) {
+      console.log(extractQueryParams(query))
+    }
 
     request.params = params
     request.query = query ? extractQueryParams(query) : {}
